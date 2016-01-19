@@ -1,0 +1,28 @@
+name: The Sterling Woods Group
+favicon: null
+layout_spectrum: 0.9234494871925563
+typography_spectrum: 0.2776681184768677
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.015124130295589566
+  lightness: 0.39187367632985115
+  saturation: 0.4795774866361171
+  rhythmicContrast: 0.26411819108761847
+purpose: []
